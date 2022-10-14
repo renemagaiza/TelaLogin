@@ -35,7 +35,7 @@ section#login {
     transform: translate(-50%, -50%);
 
     background-color: white;
-    width: 270px;
+    width: 95vw;
     height: 500px;
     border-radius: 20px;
     overflow: hidden; /* tudo o que estiver fora da borda fica escondido*/
